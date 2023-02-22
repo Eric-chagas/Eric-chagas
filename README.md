@@ -1,7 +1,7 @@
 # 🗣️ About Me:
 💻 I’m currently working as a full-time <strong>Developer</strong> at [Embraer's](https://www.linkedin.com/company/embraer/mycompany/verification/) Digital Transformation and Innovation Strategy areas<br>⌚ My most used language atm is <strong>Typescript</strong><br>📕  I’m currently learning <strong>Angular Framework</strong><br>🔬  I’m currently interested in <strong>InfoSec and Cryptography</strong><br>🐧  Linux distros i'm currently using are <strong>Pop!_OS and Solus OS</strong><br>📼 Favorite film atm is <strong>Under the Silver Lake (2018)</strong><br> :godmode: *Random menacing Doomguy for no reason*
 
-![til](https://raw.githubusercontent.com/Eric-chagas/Eric-chagas/assets/mark.webp)
+![til](https://raw.githubusercontent.com/Eric-chagas/Eric-chagas/main/assets/mark.webp)
 
 ## 🌎 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/P4percut#5598) 
